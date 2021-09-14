@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Love For All, Hatred For None.*
+_.........................._
+
+**Every moment is a fresh beginning**
+__..........................__
+
+_.**BIYA SUSSAN VARGHESE** CSE STUDENT @SAHRDAYA COLLEGE OF ENGINEERING AND TECHNOLOGY_
